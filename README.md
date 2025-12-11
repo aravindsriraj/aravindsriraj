@@ -1,51 +1,55 @@
-# 👋 Hello World! I'm TR Aravindan
+# Hey, I'm ARAVINDAN 👋  
+### Software Engineer (AI Ops) @ [Atlan](https://atlan.com)
 
-Welcome to my GitHub universe! 🚀 Aspiring Data Scientist and Tech Enthusiast 🤖
+I build the behind-the-scenes **AI infrastructure, automations, and intelligence systems** that help teams move *ridiculously fast*.
 
-## 📚 About Me
+---
 
-- 🎓 Currently pursuing M.Tech in Integrated Computer Science Engineering with a specialization in Business Analytics.
-- 🌐 Passionate about leveraging technology to solve real-world problems.
-- 📊 Experienced in Data Science, Machine Learning, and Analytics.
+### 🚀 What I Love Working On
 
-## 🚀 What I'm Up To
+- 🧩 Building **internal AI platforms** that feel like superpowers for teams  
+- ⚙️ Automating the unglamorous stuff so people can focus on real work  
+- 🤖 Designing **agents + intelligent workflows** that quietly do their thing and make everyone’s life easier  
+- 🧠 Adding **observability and feedback loops** — because good AI should be transparent and measurable  
 
-- 🔍 Actively exploring innovative solutions in the realms of AI and ML.
-- 🌱 Learning new technologies and frameworks to stay ahead in the ever-evolving tech landscape.
-- 📝 Check out my blog **SMS Spam Detection using Deep learning** [Blog](https://www.geeksforgeeks.org/sms-spam-detection-using-tensorflow-in-python/).
+AI isn’t just about automating random tasks.  
+It’s about making people **faster, smarter, and more effective** — and building tools that make companies feel *AI-native* from the inside out.
 
-## 🛠️ Tech Stack
+---
 
-### Languages & Tools
+### 🧰 Tech I Use Daily
 
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?style=flat-square&logo=postgresql)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-Intermediate-blue?style=flat-square&logo=tensorflow)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-green?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-Beginner-green?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Beginner-green?style=flat-square&logo=css3)
+**AI/ML**  
+LangChain • LangGraph • Bedrock • Azure AI • OpenAI • Claude • Gemini  
 
-### Data Science & ML
+**Agents / Workflows**  
+n8n • Relevance AI • LangFlow  
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-blueviolet?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data%20Science-Intermediate-blueviolet?style=flat-square)
-![Statistics](https://img.shields.io/badge/Statistics-Intermediate-blueviolet?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Intermediate-blueviolet?style=flat-square)
-![Natural Language Processing](https://img.shields.io/badge/NLP-Intermediate-blueviolet?style=flat-square)
+**Observability**  
+Phoenix (Arize) • Langfuse  
 
-## 📊 Favourite Projects
+**Languages**  
+Next.js • Node.js • Python • SQL  
 
-### [Audio Denoising](https://audiodenoising.streamlit.app/)
-- Developed a deep learning model to extract clean audio signals from noisy inputs, achieving a significant SNR improvement.
+**Data / Analytics**  
+Snowflake • Sigma • Mixpanel  
 
-### [Signature Verification](https://github.com/aravindsriraj/Signature-Verification/tree/main)
-- Implemented a Siamese Network Architecture in CNN to detect genuine or forged signatures with high accuracy.
+---
 
-## 📫 Let's Connect!
+### 💡 Focus Areas
 
-- 📧 Email: [aravindsriraj@gmail.com](mailto:aravindsriraj@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aravindan-tr-700a461a4/)
+- Internal AI platforms and agent systems  
+- End-to-end observability and evaluation for AI features  
+- Developer productivity workflows powered by automation  
+- Bringing AI Ops principles into product engineering  
 
+---
 
-Feel free to explore my projects and repositories. Let's collaborate and create something awesome together! 🚀
+### 📫 Let’s Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aravindan-tr/)  
+
+---
+
+> “AI should make people *superhuman*, not replace them.”
 
