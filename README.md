@@ -111,12 +111,8 @@
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aravindsriraj&show_icons=true&count_private=true&hide_border=true&title_color=6d8ef6&icon_color=6d8ef6&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsriraj&layout=compact&hide_border=true&title_color=6d8ef6&text_color=c9d1d9&bg_color=0d1117" alt="top langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindsriraj&hide_border=true&background=0d1117&stroke=6d8ef6&ring=6d8ef6&fire=6d8ef6&currStreakLabel=6d8ef6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" alt="streak"/>
+<!-- Auto-generated in-repo by .github/workflows/metrics.yml (lowlighter/metrics) — renders off GitHub's CDN, never rate-limited -->
+<img src="./metrics.svg" alt="GitHub metrics" width="80%"/>
 
 </div>
 
