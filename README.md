@@ -21,6 +21,16 @@
   <img src="https://komarev.com/ghpvc/?username=aravindsriraj&style=for-the-badge&color=6d8ef6&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
+<!-- ── quick nav ── -->
+<p>
+  <a href="#-impact-ive-shipped">⚡ Impact</a> &nbsp;•&nbsp;
+  <a href="#-what-i-love-working-on">🚀 About</a> &nbsp;•&nbsp;
+  <a href="#-tech-i-use-daily">🧰 Stack</a> &nbsp;•&nbsp;
+  <a href="#-github-stats">📊 Stats</a> &nbsp;•&nbsp;
+  <a href="#-highlighted-work--atlan">💡 Work</a> &nbsp;•&nbsp;
+  <a href="#-lets-build-something">📫 Connect</a>
+</p>
+
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -114,7 +124,24 @@
 <!-- Auto-generated in-repo by .github/workflows/metrics.yml (lowlighter/metrics) — renders off GitHub's CDN, never rate-limited -->
 <img src="./metrics.svg" alt="GitHub metrics" width="80%"/>
 
+<br/>
+
+<!-- Coding habits + commit-time heatmap (isocalendar) -->
+<img src="./metrics-habits.svg" alt="Coding habits & commit heatmap" width="80%"/>
+
+<br/>
+
+<!-- Contribution activity over time -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aravindsriraj&bg_color=0d1117&color=6d8ef6&line=6d8ef6&point=c9d1d9&area=true&area_color=6d8ef6&hide_border=true&title_color=6d8ef6" alt="contribution activity graph" width="95%"/>
+
 </div>
+
+<!-- ── snake contribution animation (self-hosted on the output branch) ── -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aravindsriraj/aravindsriraj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aravindsriraj/aravindsriraj/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/aravindsriraj/aravindsriraj/output/github-snake.svg" width="100%" />
+</picture>
 
 ---
 
@@ -126,6 +153,21 @@
 | **Mothership — Ticket→PR** | Turns support tickets into working pull requests | correctness **40% → 75%** |
 | **Description Agent** | Auto-documents data assets across the catalog | **700K+ assets** · 50 customers / 14 days · **450×** faster |
 | **Metrics Glossary Agent** | Generates & maintains metric definitions | **70%** effort reduction |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    LISTENING  /  CODING  VIBE                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🎧 Beyond the Code
+
+<!-- WAKATIME_PLACEHOLDER -->
+<!-- SPOTIFY_PLACEHOLDER -->
+
+</div>
 
 ---
 
