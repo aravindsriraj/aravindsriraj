@@ -156,21 +156,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    LISTENING  /  CODING  VIBE                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🎧 Beyond the Code
-
-<!-- WAKATIME_PLACEHOLDER -->
-<!-- SPOTIFY_PLACEHOLDER -->
-
-</div>
-
----
-
 <div align="center">
 
 ### 🏆 Recognition
