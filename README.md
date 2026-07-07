@@ -126,8 +126,8 @@
 
 <br/>
 
-<!-- Coding habits + commit-time heatmap (isocalendar) -->
-<img src="./metrics-habits.svg" alt="Coding habits & commit heatmap" width="80%"/>
+<!-- Full-year commit heatmap (isocalendar) -->
+<img src="./metrics-habits.svg" alt="Commit activity heatmap" width="80%"/>
 
 <br/>
 
